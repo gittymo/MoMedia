@@ -1,0 +1,1 @@
+java -classpath "..\momedia\Classes" momedia.editor.Editor
